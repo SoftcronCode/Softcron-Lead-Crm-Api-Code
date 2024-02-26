@@ -1,0 +1,41 @@
+﻿[
+  {
+    "tableName": "worker",
+    "action": "INSERT",
+    "columns": [
+      {
+        "columnName": "workername",
+        "columnValue": "Vinod",
+        "columnDataType": 105001
+      },
+      {
+        "columnName": "workername",
+        "columnValue": "Vinod",
+        "columnDataType": 105001
+      },
+      {
+        "columnName": "WorkerEmailID",
+        "columnValue": "Vinod@gmail.com",
+        "columnDataType": 105001
+      },
+      {
+        "columnName": "Name",
+        "columnValue": "Vinod",
+        "columnDataType": 105001
+      },
+      {
+        "columnName": "Age",
+        "columnValue": "35",
+        "columnDataType": 105002
+      },
+
+      {
+        "columnName": "BirthDate",
+        "columnValue": "12-06-2023",
+        "columnDataType": 105003
+      }
+    ]
+
+  }
+]
+

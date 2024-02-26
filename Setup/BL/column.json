@@ -1,0 +1,41 @@
+﻿
+  {
+    "tableCode": 102,
+    "action": "INSERT",
+    "columns": [
+      {
+        "columnName": "workername",
+        "columnValue": "Vinod",
+        "columnDataType": 105001
+      },
+      {
+        "columnName": "workername",
+        "columnValue": "Vinod",
+        "columnDataType": 105001
+      },
+      {
+        "columnName": "WorkerEmailID",
+        "columnValue": "Vinod@gmail.com",
+        "columnDataType": 105001
+      },
+      {
+        "columnName": "Name",
+        "columnValue": "Vinod",
+        "columnDataType": 105001
+      },
+      {
+        "columnName": "Age",
+        "columnValue": "Age",
+        "columnDataType": 105002
+      },
+
+      {
+        "columnName": "BirthDate",
+        "columnValue": "BirthDate",
+        "columnDataType": 105003
+      }
+    ]
+
+  }
+
+
